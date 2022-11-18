@@ -1,32 +1,42 @@
 <!-- @format -->
 
-# challenge-week-1
+# Challenge Week 1
 
-## User Story
+## Description
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+I took the existing code (located in the Starter pack) and refactor it in order to meet a certain set of standards (for example, naming convensions, usage of HTML semantics etc.), to improve accesibility and long term sustainability.
 
-## Acceptance Criteria
+-
 
-Your website must meet accessibility standards. You can achieve this completing the following:
+## Installation
 
-- Semantic HTML elements can be found throughout the source code
-- HTML elements follow a logical structure independent of styling and positioning
-- Image and icon elements contain accessible `alt` attributes
-- Heading attributes fall in sequential order
-- Title elements contain a concise, descriptive title
+N/A
 
-### Resources:
+## Usage
 
-- [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+Each part of the website is easily accesible through the HTML semantic elements which clearly describe their meaning.
+The accesiblity was also improved by adding the comments in both HTML and CSS documents, by including the "alt" attribute on the <img> tag, by removing the unnecessary classes and ids, and by reorganizing the CSS file and also removing the redundant code.
 
-### Mock-Up
+## Credits
 
-The following image shows the web application's appearance and functionality:
+N/A
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+## License
+
+N/A
+
+## Badges
+
+N/A
+
+## Features
+
+N/A
+
+## How to Contribute
+
+N/A
+
+## Tests
+
+N/A
